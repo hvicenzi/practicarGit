@@ -9,6 +9,7 @@ void func ()
 int main()
 {
     std::cout << "Ejemplo para agregar a un repo remoto\n";
-    std::cout << "Mas couts\n"; 
+    std::cout << "Mas couts\n";
+    func(); 
     return 0;
 }
